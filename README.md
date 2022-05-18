@@ -1,24 +1,15 @@
-# README
+# Crypto Wallet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CRUD desenvolvido com Rails para fins de estudo.
 
-Things you may want to cover:
+Tecnologias utilizadas:
 
-* Ruby version
+* Ruby 2.4.4
 
-* System dependencies
+* Rails 5.2.8
 
-* Configuration
+* SQLite3
 
-* Database creation
+Ambiente utilizado:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Vagrant
